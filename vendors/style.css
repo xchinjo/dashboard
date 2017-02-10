@@ -63,3 +63,11 @@ table.countries_list td {
     border: 1px solid #ddd;
     font-size: 15px;
 }
+h4.a {
+    font-size: 18px;
+    color: red;
+}
+h4.b {
+    font-size: 18px;
+    color: blue;
+}
